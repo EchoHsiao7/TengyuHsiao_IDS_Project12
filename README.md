@@ -1,3 +1,4 @@
+[![CI/CD Pipeline](https://github.com/EchoHsiao7/TengyuHsiao_IDS_Project12/actions/workflows/CICD.yml/badge.svg)](https://github.com/EchoHsiao7/TengyuHsiao_IDS_Project12/actions/workflows/CICD.yml)
 # TengyuHsiao_IDS_Project12
 This project creates a simple python application containerized with a dockerfile. The goal here is to both demonstrate running your application within a docker container (using docker run terminal commands) but to also build a docker image in your CI/CD pipeline which will be pushed to Docker Hub or other container management service.
 
